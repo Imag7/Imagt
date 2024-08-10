@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="", Cartoon Network
+http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="", Disney Channel
+http://tv.teleclub.xyz/envivo/Infantil/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="", Disney Jr
+http://tv.teleclub.xyz/envivo/Infantil/DISNEY_JUNIOR/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I18tgBc.png" group-title="", Discovery Kids
+http://tv.teleclub.xyz/envivo/Infantil/DISCOVERY_KIDS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="", Nick
+http://tv.teleclub.xyz/envivo/Infantil/NICK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="", Nick Jr
+http://tv.teleclub.xyz/envivo/Infantil/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png" group-title="", Tooncast
+http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png" group-title="", Bitme
+http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="", Cartoonito
+http://tv.teleclub.xyz/envivo/Infantil/CARTOONITO/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Retro-2023.png" group-title="", EnerGeek Retro
+http://tv.teleclub.xyz/envivo/Infantil/ENERGEEK_RETRO/index.m3u8
