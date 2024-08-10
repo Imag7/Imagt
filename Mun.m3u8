@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3VgvNM.png" group-title="", CNN en Español
+http://tv.teleclub.xyz/envivo/Mundo/CNN_ESPANOL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qv3P4pm.png" group-title="", RT en Español
+http://tv.teleclub.xyz/envivo/Mundo/RT_ESPANOL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iiw3ibE.png" group-title="", Lifetime
+http://tv.teleclub.xyz/envivo/Mundo/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MLdfm8o.png" group-title="", ADN40
+http://tv.teleclub.xyz/envivo/Mundo/ADN40/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rP8UBPq.png" group-title="", RCN
+http://tv.teleclub.xyz/envivo/Mundo/RCN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="", Telefe
+http://tv.teleclub.xyz/envivo/Mundo/TELEFE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iGCVGEA.jpg" group-title="", HolaTV
+http://tv.teleclub.xyz/envivo/Mundo/HOLATV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="", Las Estrellas
+http://tv.teleclub.xyz/envivo/Mundo/LAS_ESTRELLAS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RPDq82Q.png" group-title="", Canal E!
+http://tv.teleclub.xyz/envivo/Mundo/CANAL_E/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6nPAF0Q.png" group-title="", Caracol TV
+http://tv.teleclub.xyz/envivo/Mundo/CARACOLTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ys31Rhw.png" group-title="", Telemundo
+http://tv.teleclub.xyz/envivo/Mundo/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png" group-title="", Azteca7
+http://tv.teleclub.xyz/envivo/Mundo/AZTECA7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sCMrEpW.png" group-title="", Univision
+http://tv.teleclub.xyz/envivo/Mundo/UNIVISION/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0A0KkZ2.png" group-title="", Antena 3
+http://tv.teleclub.xyz/envivo/Mundo/ANTENA3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/skzoiz9.png" group-title="", Azteca Uno
+http://tv.teleclub.xyz/envivo/Mundo/AZTECA_UNO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d2SXEFp.png" group-title="", DW en Español
+http://tv.teleclub.xyz/envivo/Mundo/DW_Spanish/index.m3u8
