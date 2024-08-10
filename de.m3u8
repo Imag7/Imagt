@@ -56,7 +56,7 @@ http://tv.teleclub.xyz/envivo/Deportes/TYC_SPORTS/index.m3u8
 http://tv.teleclub.xyz/envivo/Deportes/WWE_WWF/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yTaEw8U.png" group-title="", ESPN 4
 http://tv.teleclub.xyz/envivo/Deportes/ESPN4/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="Deportes", NFL Channel
+#EXTINF:-1 tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="", NFL Channel
 http://tv.teleclub.xyz/envivo/Deportes/NFL_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="", TNT Sports BR
 http://tv.teleclub.xyz/envivo/Deportes/TNTSPORTS_BR/index.m3u8
