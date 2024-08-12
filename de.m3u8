@@ -1,7 +1,38 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FbKYhTd/pack-futbol.png", PACK FUTBOL ARG
-https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/P4cK.FUtB0L.m3u
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/P93MHyh/3spn-Pr3m1um.png",ESPN PREMIUM 1
+http://181.191.140.2:8000/play/a0ip/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/P93MHyh/3spn-Pr3m1um.png",ESPN PREMIUM 2
+http://181.209.114.13:8000/play/a078/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/P93MHyh/3spn-Pr3m1um.png",ESPN PREMIUM 3
+http://45.5.151.151:8000/play/a0fe/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/P93MHyh/3spn-Pr3m1um.png",ESPN PREMIUM 4
+http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/145417
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/P93MHyh/3spn-Pr3m1um.png",ESPN PREMIUM 5
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/47185
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/P93MHyh/3spn-Pr3m1um.png",ESPN PREMIUM 6
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/2358
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/fdcC7Bb/T3-Nt3-Sp0rts.png",TNT SPORTS 1
+http://181.191.140.2:8000/play/a0gf/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/fdcC7Bb/T3-Nt3-Sp0rts.png",TNT SPORTS 2
+http://181.209.114.13:8000/play/a02u/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/fdcC7Bb/T3-Nt3-Sp0rts.png",TNT SPORTS 3
+http://45.5.151.151:8000/play/a002/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/fdcC7Bb/T3-Nt3-Sp0rts.png",TNT SPORTS 4
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/98
+  
+#EXTINF:0 tvg-logo="https://i.ibb.co/fdcC7Bb/T3-Nt3-Sp0rts.png",TNT SPORTS 5
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/37542
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/f2xJdnC/25.png", TYC SPORTS (Opcion 1)
