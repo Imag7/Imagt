@@ -1,5 +1,119 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/babyfirts.png",Baby First
+https://jmp2.uk/PlutoTV/5ebac49ce4dc8b00078b23bc-alt.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/babyfirts.png",Baby First
+http://170.82.37.21:8000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/shark.png",Baby Shark TV
+https://jmp2.uk/PlutoTV/619d5e6a093e7c0007489211-alt.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/babytv.png",Baby Tv
+http://170.82.37.21:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/bigchannel.png",Big TV
+https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/bigchannel.png",Big TV
+https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/canelakids.png",Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/cn.png",Cartoon Network
+http://181.78.8.90:16123/play/ch09
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/cn.png",Cartoon Network
+https://gtechtecnologia.com/telelatino/play/114.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/cn.png",Cartoon Network
+https://gtechtecnologia.com/telelatino/play/269.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/c4rt00n1t0.png",Cartoonito
+http://45.228.234.210:8000/play/a054/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/c4rt00n1t0.png",Cartoonito
+https://gtechtecnologia.com/telelatino/play/115.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/c4rt00n1t0.png",Cartoonito
+https://gtechtecnologia.com/telelatino/play/308.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/cinekids.png",Cine Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/diostevekids.png",DIOS TV VE KIDS
+https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/dk1ds.png",Discovery Kids
+http://204.157.251.250:8000/play/a088/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/dk1ds.png",Discovery Kids
+https://gtechtecnologia.com/telelatino/play/117.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/dk1ds.png",Discovery Kids
+https://gtechtecnologia.com/telelatino/play/277.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/d1sn3ych4nn3l.png",Disney Channel
+http://bantel-cdn1.iptvperu.tv:1935/cdnfit/disneychannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/d1sn3ych4nn3l.png",Disney Channel
+http://204.157.251.250:8000/play/a08a/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/d1sn3ych4nn3l.png",Disney Channel
+https://gtechtecnologia.com/telelatino/play/270.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/d1sn3ych4nn3l.png",Disney Channel
+https://gtechtecnologia.com/telelatino/play/353.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/fasf.png",Disney Jr
+http://bantel-cdn1.iptvperu.tv:1935/cdnfit/disney_jr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/elreinoinfantil.png",El Reino Infantil
+https://jmp2.uk/PlutoTV/5f4d3d06fb60d8000781fce8-alt.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/elreinoinfantil.png",El Reino Infantil
+https://jmp2.uk/PlutoTV/6523f672a6c38300088cb807-alt.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/extremakids.png",EXTREMA KIDS
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/fmhkids.png",FMH KIDS
+http://bantel-cdn1.iptvperu.tv:1935/cdnfit/FMH_Kids/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/hazclick.png",Haz Clic!
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/junior.png",Junior
+https://jmp2.uk/PlutoTV/5dcde2ac4bc6c500094ab45b-alt.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/kids.png",Kids
+https://jmp2.uk/PlutoTV/5dd6dae8ce788b0009eaf77b-alt.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/logostv.png",LOGOS TV KIDS
+https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w1199347001.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/magickids.png",Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/monitv.png",MONI TV
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/mundopequeno.png",Mundo Pequeño
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/nick.png",NICK
+http://bantel-cdn1.iptvperu.tv:1935/cdnfit/nick/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/nickjr.png",NICK JR
+http://bantel-cdn1.iptvperu.tv:1935/cdnfit/nick_jr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/nikcjrclub.png",Nick Jr. Club
+https://jmp2.uk/PlutoTV/5ddd7cb2cbb9010009b4fe32-alt.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/nickteen.png",NICK TEEN
+http://bantel-cdn1.iptvperu.tv:1935/cdnfit/nickteen/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/nickclasico.png",Nickelodeon Clásico
+https://jmp2.uk/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/ntv.png",NTV
+https://marine2.miplay.cl/ntv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/pequeradio.png",PEQUERADIO
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/planet4.png",Planeta de Aventuras
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/retro.cartoon.png",RETRO CARTOONS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/retromagico.png",Retro Magico
+https://ssh101.bozztv.com/ssh101/retromagicochnl/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/semillitas.png",Semillitas
+http://170.82.37.21:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/nickteen.png",Teen Nick
+http://170.82.37.21:8000/play/a00w/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/toogle.png",Toon Goggles
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/toogle.png",Toon Goggles
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/t00ncast.png",Tooncast
+http://204.157.251.250:8000/play/a07d/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/t00ncast.png",Tooncast
+https://gtechtecnologia.com/telelatino/play/116.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/t00ncast.png",Tooncast
+https://gtechtecnologia.com/telelatino/play/307.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/zas.png",Zaz TV
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/zoomoo.png",Zoo Moo
+http://181.78.105.146:8800/play/a009
+
+
+
+
+
+
+... Teleclub......
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="", Cartoon Network
 http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="", Disney Channel
