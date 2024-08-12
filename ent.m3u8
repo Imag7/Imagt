@@ -1,6 +1,88 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZLTG6gG/c1n3c4n4l.png",Cinecanal
+https://gtechtecnologia.com/telelatino/play/44.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZLTG6gG/c1n3c4n4l.png",Cinecanal
+https://gtechtecnologia.com/telelatino/play/163.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qDKfd4t/c0m3dy.png",Comedy Central
+http://181.78.105.146:2000/play/a04a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P41MmJC/dp3l1cul4.png",D pelicula (Opcion 1)
+https://gtechtecnologia.com/telelatino/play/85.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P41MmJC/dp3l1cul4.png",D pelicula (Opcion 2)
+https://gtechtecnologia.com/telelatino/play/212.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P41MmJC/dp3l1cul4.png",D pelicula (Opcion 3)
+https://gtechtecnologia.com/telelatino/play/324.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P41MmJC/dp3l1cul4.png",D pelicula (Opcion 4)
+https://gtechtecnologia.com/telelatino/play/370.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cwX4Pz9/d3h3.png",DHE (Opcion 2)
+https://gtechtecnologia.com/telelatino/play/245.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cwX4Pz9/d3h3.png",DHE (Opcion 3)
+https://gtechtecnologia.com/telelatino/play/107.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vkHC6tC/fx.png",FX (Opcion 1)
+https://gtechtecnologia.com/telelatino/play/70.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vkHC6tC/fx.png",FX (Opcion 2)
+https://gtechtecnologia.com/telelatino/play/162.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vkHC6tC/fx.png",FX (Opcion 3)
+https://gtechtecnologia.com/telelatino/play/202.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vkHC6tC/fx.png",FX (Opcion 4)
+https://gtechtecnologia.com/telelatino/play/221.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9gJmyRH/gplu5.png",Golden Plus
+https://gtechtecnologia.com/telelatino/play/227.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RNzD7Hc/gpr3mi3r.png",Golden Premier (Opcion 1)
+https://gtechtecnologia.com/telelatino/play/75.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RNzD7Hc/gpr3mi3r.png",Golden Premier (Opcion 2)
+https://gtechtecnologia.com/telelatino/play/225.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jRh4Fnv/pr4m0unt.png",Paramount Network (Opcion 1)
+https://gtechtecnologia.com/telelatino/play/265.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jRh4Fnv/pr4m0unt.png",Paramount Network (Opcion 2)
+https://gtechtecnologia.com/telelatino/play/83.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjQf0LL/s0nych4nn3l.png",SONY (Opcion 1)
+https://gtechtecnologia.com/telelatino/play/68.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjQf0LL/s0nych4nn3l.png",SONY (Opcion 2)
+https://gtechtecnologia.com/telelatino/play/77.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCV8TK3/s0nyc1n3.png",SONY CINE HD
+https://gtechtecnologia.com/telelatino/play/402.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCV8TK3/s0nyc1n3.png",SONY CINE SD
+https://gtechtecnologia.com/telelatino/play/403.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PmztWnv/s0nym0v13s.png",SONY MOVIES
+https://gtechtecnologia.com/telelatino/play/339.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C2dGQKY/s0ny0n3.png",SONY ONE
+https://gtechtecnologia.com/telelatino/play/391.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yY1fdJh/sp4ce.png",SPACE (Opcion 1)
+https://gtechtecnologia.com/telelatino/play/39.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yY1fdJh/sp4ce.png",SPACE (Opcion 2)
+https://gtechtecnologia.com/telelatino/play/216.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vZgNwFt/st4r.png",STAR CHANNEL (Opcion 1)
+https://gtechtecnologia.com/telelatino/play/42.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g4sgq4d/studio.png",Studio Universal HD (Opcion 2)
+https://gtechtecnologia.com/telelatino/play/218.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QQbdmSK/t33l3c3.png",TLC (Opcion 1)
+https://gtechtecnologia.com/telelatino/play/100.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QQbdmSK/t33l3c3.png",TLC (Opcion 2)
+https://gtechtecnologia.com/telelatino/play/333.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HrSNRRJ/tnte.png",TNT (Opcion 1)
+http://181.78.105.146:2000/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bdRkR4F/tntenov.png",TNT Novelas
+https://gtechtecnologia.com/telelatino/play/209.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHPqxjG/tneteser.png",TNT Series (Opcion 1)
+https://gtechtecnologia.com/telelatino/play/76.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHPqxjG/tneteser.png",TNT Series (Opcion 2)
+https://gtechtecnologia.com/telelatino/play/224.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QKcRcrz/unvtv.png",Universal Tv (Opcion 1)
+https://gtechtecnologia.com/telelatino/play/79.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QKcRcrz/unvtv.png",Universal Tv (Opcion 2)
+https://gtechtecnologia.com/telelatino/play/195.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8cJDKG2/wbe.png",Warner Channel (Opcion 1)
+https://gtechtecnologia.com/telelatino/play/40.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8cJDKG2/wbe.png",Warner Channel (Opcion 2)
+https://gtechtecnologia.com/telelatino/play/249.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8cJDKG2/wbe.png",Warner Channel (Opcion 3)
+https://gtechtecnologia.com/telelatino/play/311.m3u8
 
 
+
+
+
+...... Teleclub...
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="", Star Channel
 http://tv.teleclub.xyz/envivo/Entretenimiento/STAR_CHANNEL/index.m3u8
