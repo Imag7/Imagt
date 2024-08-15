@@ -1,0 +1,15 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t5FVNwDq0oQ1PvVd6EA9hrY3YFV.jpg" group-title="",1 (El alma perdida)
+https://github.com/BrianRVP/lista.m3u/releases/download/BFlhfgu/1.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t5FVNwDq0oQ1PvVd6EA9hrY3YFV.jpg" group-title="",2 (Alondra)
+https://github.com/BrianRVP/lista.m3u/releases/download/BFlhfgu/2.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t5FVNwDq0oQ1PvVd6EA9hrY3YFV.jpg" group-title="",3 (París siempre será París)
+https://github.com/BrianRVP/lista.m3u/releases/download/BFlhfgu/3.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t5FVNwDq0oQ1PvVd6EA9hrY3YFV.jpg" group-title="",4 (La Dame de Fe)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t5FVNwDq0oQ1PvVd6EA9hrY3YFV.jpg" group-title="",5 (Dos Amores)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t5FVNwDq0oQ1PvVd6EA9hrY3YFV.jpg" group-title="",6 (Volviendo a cas)
+
+
