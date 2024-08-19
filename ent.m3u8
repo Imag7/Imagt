@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KGSjQcx/hb0.png"group-title="",HBO
+https://gtechtecnologia.com/telelatino/play/31.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9HMK8Tg/hb02.png"group-title="",HBO 2
+https://gtechtecnologia.com/telelatino/play/32.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S5mMJyr/hb0mund1.png"group-title="",HBO MUNDI
+https://gtechtecnologia.com/telelatino/play/69.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vJgHT3W/hb0plu5.png"group-title="",HBO PLUS
+https://gtechtecnologia.com/telelatino/play/208.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mbd0qnv/hb0p0p.png"group-title="",HBO POP
+https://gtechtecnologia.com/telelatino/play/250.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5Y5YZnc/hb0s1g.png"group-title="",HBO SIGNATURE
+https://gtechtecnologia.com/telelatino/play/263.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZLTG6gG/c1n3c4n4l.png",Cinecanal
 https://gtechtecnologia.com/telelatino/play/44.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZLTG6gG/c1n3c4n4l.png",Cinecanal
